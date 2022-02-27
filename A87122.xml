@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox populi, or, Glostersheres desire: with, the way and means to make a kingdome happy (by Gods help.) By setting up of schoole-masters in every parish throughout the land generally. Being fit for the help of religious ministers in their heavenly worke. And for the removing of the three capitall enormities of this land, viz. ignorance, prophanesse and idlenesse. Set forth for the benefit of all the young children in the kings dominions: with schoole-lawes and orders, for every English schoole-master, and family, to have in their houses. For the training up young children, both in godlinesse and manners, for the good of the land. With the confuting of certain objections that would hinder and make void so good a worke. by Samuel Harmar.</title>
+            <author>Harmar, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87122</idno>
+            <idno type="STC">Wing H799</idno>
+            <idno type="STC">Thomason E146_2</idno>
+            <idno type="STC">ESTC R22931</idno>
+            <idno type="EEBO-CITATION">99871863</idno>
+            <idno type="PROQUEST">99871863</idno>
+            <idno type="VID">156649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox populi, or, Glostersheres desire: with, the way and means to make a kingdome happy (by Gods help.) By setting up of schoole-masters in every parish throughout the land generally. Being fit for the help of religious ministers in their heavenly worke. And for the removing of the three capitall enormities of this land, viz. ignorance, prophanesse and idlenesse. Set forth for the benefit of all the young children in the kings dominions: with schoole-lawes and orders, for every English schoole-master, and family, to have in their houses. For the training up young children, both in godlinesse and manners, for the good of the land. With the confuting of certain objections that would hinder and make void so good a worke. by Samuel Harmar.</title>
+                  <author>Harmar, Samuel.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates, and are to be sould in hsi [sic] shop in the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156649:1" rendition="simple:additions"/>
+            <p>VOX POPULI, OR, GLOSTERSHERES DESIRE: WITH, The Way and Means to make a Kingdome Happy (by Gods help.) By ſetting up of Schoole-maſters in every Pariſh throughout the Land generally. Being fit for the help of Religious Miniſters in their Heavenly Worke. And for the removing of the three Capitall enormities of this Land, <hi>viz. Ignorance, Prophaneſſe</hi> and <hi>Idleneſſe. Set forth for the Benefit of all the young Children in the Kings Dominions: With Schoole-Lawes and Orders, for every Engliſh Schoole-Maſter, and Family, to have in their Houſes. For the training up young Children, both in Godlineſſe and Manners, for the good of the Land. With the confuting of certain Objections that would hinder and make void ſo good a Worke. By</hi> Samuel Harmar.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Bates,</hi> and are to be ſould at hsi Shop in the <hi>Old-Bayly,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156649:2"/>
+            <pb facs="tcp:156649:2"/>
+            <head>VOX POPULI, on Gloſterſhires Deſire.</head>
+            <div type="part">
+               <head>The great Evils that doe <g ref="char:V">Ʋ</g>uiverſaly ſpread over the Land, are three, that is to ſay, <hi>Igrorance, Propha<g ref="char:EOLhyphen"/>neſſe, and Idleneſſe.</hi>
+               </head>
+               <p>THe ſpeciall theanes (by God help) to precent thoſer evils, is, for to pray. That the Honourable Aſſembly of Parliament will be pleaſed to take it into their wiſe, and grave conſideration, that honeſt and Religious Schoole-maſters may be planted in every Pariſh throughout the Land which is able to maintain one. It is verily be<g ref="char:EOLhyphen"/>leeved, that an honeſt Schoole-maſter in every Pariſh will be a ſpecial help to a Religio us Miniſter, in ſiding with him for the trayning up young Children in godlineſſe and manners; which worke no good Chriſtian can deny the ſetting up; ſeeing it is a work which much tendeth to the worſhip of God and the good of the Common-wealth.</p>
+               <p>It is a great complaint in many parts of the Realme amongſt Reli<g ref="char:EOLhyphen"/>gious Miniſters, to ſee how little their Preaching and Doctrine have thrived and wrought in the hearts of many young and old people.</p>
+               <p>One main, reaſon of this barrenneſſe in goodneſſe is for want of ſuch a member in every Pariſh, to educate and inſtruct all the Children in the Pariſh, as well the poore, as the rich, that ſo the poor eſt may be taught to write and reade; (which many wealthy Fathers at this time would give much if they could doe it.) And beſides the Children ſhall be taught to underſtand the Principles of Religion concerning their Faith and Hope; they being Catechized in ſuch a Catechiſe as the Learned Synod with the Approbation of the Honourable Houſe; ſhall think moſt meet to be raught in all Schooles of the Realme, for the ea<g ref="char:EOLhyphen"/>ſie and plain underſtanding of the grounds of Divinity.</p>
+               <p>If this care be taken in every Pariſh it will be a great means to keep Men and Women from ſo many diviſions of opinions which are ſprung up amongſt us, to the great trouble of the Land and diſtur<g ref="char:EOLhyphen"/>bance of many peoples mindes. It is the prayer and deſire of many
+<pb facs="tcp:156649:3"/>good people that this charitable work of generall Schooling may take effect in the whole Land, for the reſtraining of vice, and for the good of poore Mens Children; And beſides (by the bleſſing of God) it will be a great means to work a Reformation in the whole Land and beger a uniformity in Religion among us; which is now much out of joynt, though there is, as the Apoſtle ſaith, but one Body, one Spirit in a Man one Hope one Lord one Faith, and one Baptiſme:</p>
+               <p>A ſecond Benefit that will acrue and ariſe, by having an honeſt Schoole-maſter in every Pariſh, it will be a ſpeciall means to keepe Children out of Idleneſſe; for when there is a habit of Idleneſſe bred in the bones of little Children, it will hardly go out of the Fleſh; for as the Veſſell is firſt ſeaſoned, ſo it will taſte long of the liquor whe<g ref="char:EOLhyphen"/>ther good or bad: And this Idleneſle among the poorer ſort of chi<g ref="char:EOLhyphen"/>dren by playing in the Streets the better part of the Day; rather deſi<g ref="char:EOLhyphen"/>ring to beg then to worke, this Idle life at length, leadeth poore chil<g ref="char:EOLhyphen"/>dren either to become beggers or theeues; and this is one cauſe why Countries and Cities are ſo oppreſt with beggers in many places at this preſent: and if it happen that theſe Idle Perſons if they cannot get their living by begging, they will adventure to ſtea'e, and ſo do much hurt many yeares to many of the Kings Subjects before they be ta<g ref="char:EOLhyphen"/>ken: And all this miſchiefe to the Land in generall doth greatly ariſe from the firſt cruſe, which is the want of a Schoole-maſter in every Pariſh.</p>
+               <p>Many Pariſhes at this time do greatly complain for the want of a Religious Schoole-maſter to teach their Children, as well, as for a ſo<g ref="char:EOLhyphen"/>ber Religious Miniſter among them, to teach them.</p>
+               <p>There are two Objections, which ſome (malignants) object for the overthrow of this ſo Religious, and Common-wealth work, for the generall good of the Land. Firſt, they ſay, Who ſhall pay for Chil<g ref="char:EOLhyphen"/>drens Schooling? And ſecondly, how ſhall they be maintained?</p>
+               <p>The firſt is anſwered; If the Law of the Land do enjoyne and rate mens eſtates, toward the relieving of the poore in their Pariſhes. The queſtion is asked whether the ſame Law may not aſwell enjoyne a rate upon Mens eſtates for the maintaining of ſo charitable a work, which is the publike good of the Land and will be a ſpeciall means to prevent Idleneſſe among Children, with beggery and theevery, which are apt to follow Idleneſſe as is ſhewed before, and are great and hea<g ref="char:EOLhyphen"/>vie burdens lying on the Land at this time.</p>
+               <pb facs="tcp:156649:3"/>
+               <p> Againe, there is another great help for the eaſie furthering of this work of generall Schooling; they that have no Children, and great Eſtates, may be ſomthing more liberall then others that have a charge of Children, ſeeing the work is ſo profitable ſot the puplike good.</p>
+               <p>It is reported, that ſome that have but twenty pound <hi>per Annum.</hi> would be willing to give ten ſhillings <hi>per Annum</hi> out of their eſtates, to raiſe a competent maintenance, to encourage a Schoole-maſter to take paines and to wait upon his calling. Alſo, that Children may be kept out of the ſtreets; whereas now they curſe and ſwear, drawing the vengeance of God upon the Land: And beſides, neither Man nor Beaſt can paſſe by them quietly; for ſome are ſo unhappy, like thoſe Children that meeked the old Prophet <hi>Eliſha,</hi> that neither Men, Wo<g ref="char:EOLhyphen"/>men nor Children upon their buſineſſe can paſſe by them without a mocke or it may be, a ſtone at them: And as for the poore dumbe Beaſts they cannot paſſe by them; for either they will throw ſtones at them or elſe force them into Brooks, or Pooles and ſo danger them or elſe force them over Hedges and Ditches, breaking their Legs or brea<g ref="char:EOLhyphen"/>king their Necks: ſo that now let Men judge, whether it be not a ne<g ref="char:EOLhyphen"/>ceſſary, needfull work to ſet up generall Schooling over the Land; for the reforming of Children from thoſe vices which they Act againſt God, by belching out dayly fearefull curſes and oathes, and alſo by a<g ref="char:EOLhyphen"/>buſing and hurting both old Men, and children and dumbe beaſts; Tell ſome Fathers of theſe ungod y, hurtfull Children, what hurt their Children do they will give you the hearing and chide them and there is all the correction they give, and this will be a means to encourage Children more in their wickedneſſe againſt God and Men; whereas if there were a Schoole-maſter, Children would live in fear to hurt the leaſt Childe that ſhould come by them; for a Schoole-maſter-would be a terror to the malitious ones, becauſe he would be alwaies reſident like a Magiſtrate, to heare the complaints of any that ſhould com<g ref="char:EOLhyphen"/>plain againſt them, and ſo the Offender ſhall receive correction for his offence; but let the puniſhment to the Scholler be in mercy, the Maſte (being enjoyned, not to give above foure laſhes with the Rod, that ſo Children may not be diſhartened in going to Schoole, becauſe ſome Schoole-maſters are mercileſſe in correcting their Schollers.)</p>
+               <p>The conſiderations of theſe evills are ſufficient to encourage People to be liberall; to gain a Schoole-maſter for the reſtraining of the great and manifold vices that are in little Children.</p>
+               <pb facs="tcp:156649:4"/>
+               <p> The ſecond and laſt Objection; How ſhall poore Children be main<g ref="char:EOLhyphen"/>tained? Anſwer. Thoſe that are painefull Parents, and are willing to ſet their Children to ſpinning or knitting; or to work upon Hemp or Flax, or any other worke, whereby it may cauſe plenty of Food and Rayment in a Common-wealth (and to prevent complaining in the ſtreets) do enjoune their Children, to get a Penny, before they goe to Schoole and another when they come home, which is a commendable thing of thoſe Parents that are thus carefull of their Children. If all Children were thus looked unto, to gain two pence a day by their la<g ref="char:EOLhyphen"/>bour it would be a good helpe towards their maintenance, and be<g ref="char:EOLhyphen"/>ſides, an eaſe to the Pariſh in their dayly taxations: Whereas on the contrary, playing in the ſtreets againes nothing but poverty in the Land, with thouſands of curſes and oathes, fightings, and other wicked miſchiefes, to the great diſhonour of God, and hurt to the Common<g ref="char:EOLhyphen"/>wealth; and all for want of a Maſter over them.</p>
+               <p>And furthermore, as concerning that Objection. How Children ſhall be maintained at Schoole for proviſion? It is common in the mouthes of many poore people. That if, they could be free from the charge of their Childrens Schooling, they would not charge the Pa<g ref="char:EOLhyphen"/>riſh for their Childrens maintenance. Theſe are ſufficient Anſwers, for the overthrow of the two Objections, which would hinder ſo cha<g ref="char:EOLhyphen"/>ritable a work, and ſo Religious for the generall good of the Land. Therefore let every good Man and Woman poure out their Prayers to God for the ſpeedy and pure purging of thoſe evils reigning in the Land and threatning Gods Judgement upon us, and the Kings Domi<g ref="char:EOLhyphen"/>nions.</p>
+               <p>And for this end and purpoſe the Lord Almighty bleſſe our Ho<g ref="char:EOLhyphen"/>nourable Houſe of Peeres and Houſe of Commons that they may take it into their wiſe and grave conſiderations ſpeedily; to take Gods cauſe in hand, which have been theirs, and the Lands mighty preſer<g ref="char:EOLhyphen"/>ver. And the Lord bleſſe and preſerve their deſignes and purpoſes, both for the glory of God and the good of Church and State, <hi>Amen, Amen, Even ſo be it.</hi>
+               </p>
+               <p>WHereas good Lawes in the Land are needfull, and maketh Men and Women Live in Subjection; even ſo good Lawes in a Schoole amongſt Children will make them the better verſt and obe<g ref="char:EOLhyphen"/>dient
+<pb facs="tcp:156649:4"/>to the good Lawes of the Land, when they ſhall come to Age Having relation to an Engliſh Schoole, and obſerving the Lawes of the Schoole how eaſily the Maſter kept his Schollers in godlineſſe and manners (both for the glory of God, and the good of the Land.) which is an admirable Heavenly thing to ſee in little Children. I thought it good to publiſh the chiefeſt Heads, as a Patterne for all Schoole-maſters to teach their Schollers, that they may be a meanes (by Gods help, to bring a generall joy and comfort through the Land. For there are many Schoole-maſters which take great paines to make their Schollers excellent in humane Learning; but they take little or no care to traine up or teach God ineſſe and Manners to their Schol<g ref="char:EOLhyphen"/>lers, and the Reaſon is becauſe ſome of them have but little of it themſelves.</p>
+               <p>Godlineſſe and Manners are the very Diademe and Glory of all Learning; What was <hi>Herod</hi> the better for his Learning when as the People ſaid, <hi>It was the voice of a God, and not of a Man?</hi> when as he wanted Godlineſſe and Manners, in that he was bloudy minded to perſecute the poore Saints; as <hi>Peter</hi> and <hi>James,</hi> and the reſt. There<g ref="char:EOLhyphen"/>fore good Lawes and Precepts among Children, may do a great deale of good to their Soules and Bodies.</p>
+               <list>
+                  <head>The Lawes are ſet down in Foure Heads.</head>
+                  <item>1 <hi>The firſt cocerning God and his Sabbothes.</hi>
+                  </item>
+                  <item>2 <hi>The ſecond is, concerning the dutie and love that Children owe to their Fathers and Mothers, and their Superiours.</hi>
+                  </item>
+                  <item>3 <hi>Their Love to their Brother, Siſter, Servant, Schoole-fellowes, and Neighbours.</hi>
+                  </item>
+                  <item>4 <hi>Their care to their Writing and Reading, and to keep their Apparell handſomely and whole about them; that ſo they may not offend their Ma<g ref="char:EOLhyphen"/>ſter and Parents; which if they obſerve and keep, they ſhall be acconnted good Boyes and beſides, gains great Love from their Maſters, Parents, and Guardians, which have the tuition and charge of them.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:156649:5"/>
+               <head>The Lawes of the Schoole, fit to acquaint young Children with dayly; that ſo when they come to be Men, they may be the better fitted to obſerve the good Lawes of the Land.</head>
+               <p>BUt before I come to ſhew them, I purpoſe to propoſe and put forth one queſtion.</p>
+               <p>Whether Lords or Gentlemen if they intend to make them faire Orchards, whether they doe uſually plant ouer their ground old Trees, or young pleaſant plants or ſtocks?</p>
+               <p>It is to be granted that old Trees may grow when they are Planted; But nevertheleſſe there are foure things why great Men, and Gentle<g ref="char:EOLhyphen"/>men, doe not Plant their faire Orchard-ground with old ſtocks.</p>
+               <list>
+                  <item>1 Becauſe old great Trees are cumberſome to deale withall, and one or two Men cannot doe it.</item>
+                  <item>2 The Windy ſtormes hath a greater ſtroak at great Trees to over<g ref="char:EOLhyphen"/>turne them more then it hath at a young plant or ſtock.</item>
+                  <item>3 Old Trees will coſt much charge and labour to prop them up, which every guſt of Winde endangereth, either to overturne the bo<g ref="char:EOLhyphen"/>dy, or at leaſt ſhake the roote.</item>
+                  <item>4 And laſtly, if the Lord, or maſter deſireth to make an Arbour to his Orchard for his pleaſure; Old trees are not ſo apt to bend as young Plants or ſtocks for that worke.</item>
+               </list>
+               <p>This I make by way of compariſon and doe with all humility ſet it forth for the glory of God, and for the generall good of the Land, that the Lord and Commons of both the Houſes of Parliament, will be pleaſed to take it into their wiſe and grave conſideration carefully to Plant Orchards of young ſtockes meaning young Nurſeries of gene<g ref="char:EOLhyphen"/>rall Schooling in every Pariſh throughout the Land, with a carefull Gardner or Grafter over them put in truſt to foſter and cheriſh them up, by taking away the hurtfull ſprouts and ſyences of wickedneſſe, that hinder the good growth of them, that ſo at laſt England may be<g ref="char:EOLhyphen"/>come an admirable Orchard, full of fruit-Trees being made fit for the ſervice of God and good Trees and Members for the Common, wealth.</p>
+               <p>There are many Clarkes and others that have no imployment, would be glad to keep Schoole, if they might have maintenance.</p>
+               <p>As good Lawes doe keep and preſerve Peace in a Land for the
+<pb facs="tcp:156649:5"/>good of all the Subjects, to keep them in Subjection.</p>
+               <p>So good Lawes ſowne among Children dayly in the Schoole, will be a ſpeciall meanes to keep them in Subjection, both for the glory of God; the good of themſelues and the joy and comfort of their Ma<g ref="char:EOLhyphen"/>ſter, that have the tuition of them.</p>
+            </div>
+            <div type="part">
+               <head>Religious and Morrall Precepts of the Maſter to his Schollers, called the Lawes of the Schools, davided into foure Parts.</head>
+               <p>The firſt concerning God and his Sabboths. The ſecond is of the Childs Duty and Love that he oweth to his Father his Mother, and his Superiours. The third ſheweth how he ſhould have his tongue ſo tipped with good words that he may miniſter grace or yeeld a good example of grace to the hearers. Fourthly and laſtly, ſheweth how a Childe ſhould order himſelfe to gaine Learning and to keep his Ap<g ref="char:EOLhyphen"/>parell handſomely in the ſight of People.</p>
+               <p>Firſt, That the Childe take heed that he ſwear not (in every vaine talke) by the God that made him.</p>
+               <p>Secondly that he ſwear not by our Lord Jeſus Chriſt our Saviour and Redeemer.</p>
+               <p>Thirdly, ſwear not by <hi>Chriſts</hi> blood and wounds nor by any part of his body; becauſe the Lord ſaith <hi>For the very cauſe of Oathes the Land ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ourue.</hi> Therefore take head to thy Tongue, that you pluck not a Plague and Judgement upon thy ſelfe and the whole Land for thy ſake as <hi>Achan</hi> did upon Iſrael.</p>
+               <p>Likewiſe beware of lying, which is a ſrnit of the Tongue. A com<g ref="char:EOLhyphen"/>mon Lyar is an Enemy to the God of Truth; And the Scripture ſaith <hi>that God is the God (and Father) of Truth; but the Devill is the Father of Lyer;</hi> theſe Offences againſt God deſerves fovre laſhes on the Hand with the Rod.</p>
+               <p>Againe it is a ſpeciall Duty belonging to God and the very Life of Reigeon that a Child ſanctifie and keepe holy Gods Sabbothes. Therefore beware of Gameing Gadding and wanton paſtime, which draw the heart away from Gods ſervice. The Chriſtian Sabboth is the
+<pb facs="tcp:156649:6"/>day of their Saviours Chriſts Reſurrection; which they keep holy a<g ref="char:EOLhyphen"/>bove other daies: For Chriſts Reſurrection is the Faithfull Chriſtians Juſtification, as the Apoſtle ſheweth ſaying. <hi>Chriſt was delivered for our Offences, and raiſed againe for our Juſtification.</hi> Therefore Chriſtsi<g ref="char:EOLhyphen"/>ans obſerve that day to the Lord; for if <hi>Chriſt</hi> had not riſen, both Jewes and Gentiles had all come ſhort of the glory of God: he that ſhall prophane this day deſerveth foure laſhes with the Rod, on the Hand.</p>
+               <p n="2">2 Precept commandeth the Childe to be loving and dutifull to his Father, Mother and his Superiours, and Elders, being as ready to doe their will in good things as the Servants of the <hi>Centurion</hi> which when their Maſter bid them go they ſtirred in a moment and went with ſpeed; when he bid them come they came not careleſly but willingly; and laſt of all when he bid them do this, or that thing, they did it faithfully readily, and with ſpeed which is a commendable thing in a Scoller to doe the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike; the neglect of this duty, and love, deſerves three laſhes on the Hand.</p>
+               <p>I have read of a Child poſſeſt with the Devill at the Mothers curſe, becauſe it frowned and fumed and would not doe as the Mother bid it; a warning to Children not to be idle and mothers not to be too haſty of their words.</p>
+               <p n="3">3 Beware of curſing &amp; rayling againſt any one which is a filthy thing in the Tongue of any Man, Woman or, Childe. The Angel of God did not raile againſt the Devill; and King <hi>Dauid</hi> did not raile againſt <hi>Shemei;</hi> and <hi>Chriſt Jeſus</hi> the very mirrour of humility and patience, did not raile nor revile at his perſecutors, but committed his cauſe on<g ref="char:EOLhyphen"/>ly to God; who ſaith, <hi>Vengeance is mine, and I will repay it;</hi> and againe, <hi>he giveth to every Man according to his doing, whether good or bad.</hi>
+               </p>
+               <p>Likewiſe beware of ſetting nick names upon any Mans Perſon be<g ref="char:EOLhyphen"/>ing deformed, or upon any Mans po<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſſion, be it never ſo baſe; if he b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> needfull in the Common-wealthe: for God deſpiſeth not fooliſh things not baſe things nor weak things if they ſtand with the Lord and take his part; therfore do not thou ſet nick names upon them, if thou doſt thou ſhalt have three laſhes with the Rod on the Hand.</p>
+               <p n="4">And laſtly, ſheweth a Child how to order himſelfe to gaine Lear<g ref="char:EOLhyphen"/>ning, and to keep his Apparell.</p>
+               <p>Firſt, a Childe muſt take heed that he keep his ſtops in Reading,
+<pb facs="tcp:156649:6"/>that he hackle not, nor hamble his words in a humming, ſnaffling way through the Noſe.</p>
+               <p>Likewiſe that he be carefull to keep his Book clean from blots; that he write not crooked out of the line, that he keep his Letters even, and ſtreight together, keeping a diſtance betweene every Word, and not linking words together like a chaine from one end of the line, to the other, and ſo make a confuſion, that the Reader can make no ſence of it; which is a fault amongſt many writers writing to their Friends, in that they cobble all their words together.</p>
+               <p>The next thing a Childe muſt ſee to is his Apparell he muſt take heed that his Apparell be cleane from dirting whole from tearing; that his Stockings be kept gartered, his ſhooes pointed, and like a neate Scholler behaving himſelfe in ſuch a civell manner, that he may be a companion for his betters; then ſhall his Maſter love him, and commend him,</p>
+               <p>Likewiſe, he muſt be courteous to all Men, and when he meeteth his Elders, that he put off his Hat, and give them them the time of the Day; this Scholler-like courteous carriage, ſhall not onely gain their Parents love, but alſo Neighbours and ſtrangers will love them and commend them; the neglect of this behaviour, will deſerve three la<g ref="char:EOLhyphen"/>ſhes on the Hand.</p>
+               <p>Other things there might be put in, to warne children that they doe it not as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing fighting, hurting one another in jeſt or earneſt, all which are breaches of Peace; wherefore for the reſt which I have omitted, I leave it to the wiſedom of the wiſe Schoole-maſter, to adde more Lawes or better: according as he ſhall ſee good; but this is the end of my de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re: who I hope, there are many more of the ſame, I ſhould be glad to ſee little children trained up in a Religious and ci<g ref="char:EOLhyphen"/>vill way of life, which is the Grace of a Family of a Towne or City, when the children belonging unto thoſe places are well educated and brought up.</p>
+               <p>The Voice of the Parliament may doe very much in this thing, a thouſand Preachers cannot compare with them for the duelling of ſin at this time; I pray God to give them a time, in his good time, to bring every good work to paſſe for his glory, and the Kingdomes good, and theirs.</p>
+               <p>Now if theſe Schoole Lawes or the like, might be compelled to be read in every Engliſh Schoole twice a Week, like a Leſſon of Inſtru<g ref="char:EOLhyphen"/>ction,
+<pb facs="tcp:156649:7"/>it would be a ſpeciall meanes (by the held of God) to bring a very great reformation in little childrens Hearts for the Law being onely read is a terror; and a Rod to milde children that have a filiall feare in them; though they ſee none corrected for breaking the Law.</p>
+               <p>Now when theſe filiall children that have the Law in their Hearts, with much fear leſt they ſhould offend; thoſe (I ſay) will be a ſpeciall meanes (like little Preachers) to rebuke and perſwade other children, that are of a ſervile add obſtinate Nature, that they come not in the compaſſe of their Maſters correction and ſo by this meanes (and Gods bleſſing with it) the ſtream and tide of wickedneſſe, which one car<g ref="char:EOLhyphen"/>ried many thou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ands headlong to wickedneſſe ſhall not run ſo vio<g ref="char:EOLhyphen"/>lent as it hath done in times paſt, but ſhall be aſſwaged with the low and humble ebbe of Godlineſſe and goodneſſe; for with the meek and lowly the Lord is pleaſed to dwell, and ſuch as delight in goodneſſe, the Lord is pleaſed to delight in them; according as the Holy Ghoſt faith <hi>Thoſe that Honour me, I will Honour.</hi> So praying to God for a good ſucceſſe in theſe things, deſiring every good Chriſtian to do the ſame; for it is goodneſſe that will make us happy, and not greatneſſe onely; for greatneſſe cannot deliver one in the Day of the Lords wrath; but goodneſſe will make a Man happy and joyfull, through <hi>Chriſt Jeſus,</hi> at the Houre of Death, <hi>Pſal.</hi> 112.7.8.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
